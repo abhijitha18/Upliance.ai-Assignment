@@ -4,6 +4,8 @@ Insights and Observations
 
 ![Food Sales Dashboard Excel](https://github.com/user-attachments/assets/078a9ce1-6165-458f-9638-0112e9b19d6c)
 
+Will find the above dashboard and other visualization in merged_dataset.xlsx
+
 1. UserDetails Dataset:
 - Contains no missing values.
 - User details include location, favorite meal, total orders, etc., making it suitable for demographic and behavioral analysis.
