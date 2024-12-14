@@ -44,6 +44,10 @@ Suggestions for Analysis
 
 
 Visualizations
+Excel Dashboard
+
+![Food Sales Dashboard Excel](https://github.com/user-attachments/assets/078a9ce1-6165-458f-9638-0112e9b19d6c)
+
 User Distribution:
 
 Meal Preferences:
