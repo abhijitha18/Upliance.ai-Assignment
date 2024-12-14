@@ -46,10 +46,14 @@ Suggestions for Analysis
 
 
 Visualizations
-Excel Dashboard
+Popular Dishes 
+![popular dish](https://github.com/user-attachments/assets/e7e981d1-7c66-44d2-ae84-e0256673cd59)
+
 
 
 User Distribution:
+
+![order by locaton](https://github.com/user-attachments/assets/4cf3ebb2-89f2-4836-9d8c-fb2cfdc85fc9)
 
 Meal Preferences:
 
