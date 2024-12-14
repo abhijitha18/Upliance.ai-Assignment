@@ -47,6 +47,7 @@ Suggestions for Analysis
 
 Visualizations
 Popular Dishes 
+
 ![popular dish](https://github.com/user-attachments/assets/e7e981d1-7c66-44d2-ae84-e0256673cd59)
 
 
@@ -61,6 +62,6 @@ Revenue by Meal Type:
 
 Session Duration vs Rating:
 
-Order Trends Over Time:
+Order Trends Over Time: All visualization in the the .ipynb files
 
 
